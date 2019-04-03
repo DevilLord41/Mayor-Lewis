@@ -1,0 +1,157 @@
+<Bachelors>
+	<type>Bachelors</type>
+	<quote>Elliot tinggal sendiri dalam kabin dipantai. Dia adalah seorang penulis yang bermimpi suatu hari untuk menulis novel yang indah. Dia orang yang halus dan romantis, dengan kecenderungan pergi ke bunga dan puitis. Ketika dia mampu, dia senang akan minuman keras di Stardrop Saloon. Bisakah petani sederhana seperti anda menjadi inspirasi bagi Elliot? Hanya ada satu cara untuk memastikannya.</quote>
+	<schedule>
+		<desc>
+			Pada saat hujan, dia akan didalam rumah setiap waktu.
+			Pada Hari Thursdays (Kamis), dia akan berada dalam rumah, lalu pergi ke toko Pierre, dan kembali kerumah.
+			Pada hari Friday (jumat) dan Sunday (minggu) musim Summer, Falls, Winter. dia akan keluar rumah pada jam 12:00 AM dan berdiri diselatan rumahnya. Kembali kerumah saat jam 1:30, lalu pergi ke jembatan antara kota dan pantai, lalu kembali kerumah.
+
+			Jika musim Spring, dia akan keluar rumah pada jam 12:00 AM dan berdiri diselatan rumahnya. Kembali kerumah saat jam 1:30, lalu pergi ke jembatan antara kota dan pantai, lalu kembali kerumah.
+
+			Jika musim Summer, tanggal 9, pagi hari dia akan pergi ke klinik Harvey, dan disore hari, akan kembali kerumahnya. Pada hari biasa, dia akan keluar rumah pada jam 11:30 dan pergi ke The Forest di selatan rumahnya Leah.
+
+			Jika musim Fall, jam 11:30 dia akan pergi ke Museum. dan kembali kerumah pada malam hari.
+
+			Jika musim Winter, dia akan pergi ke Museum pada jam 11:30 dan kembali kerumah pada malam hari. Pada tanggal 17 Winter, dia akan pergi kemuseum pada jam 11:30, dan pergi ke Night Market pada jam 4:50PM, dan kembali kerumah pada jam 1:00 AM
+
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Elliot tinggal sendiri dalam kabin dipantai, dia berteman dengan Willy dan Leah.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>(PlayerName), ini hadiah yang indah! Terimakasih!</quote>
+			<item>
+				Semua Universal Loves
+				Crab Cakes
+				Duck Feather
+				Lobster
+				Pomegranate
+				Tom Kha Soup
+			</item>
+		</love>
+		<like>
+			<quote>Ini untukku? Luar Biasa!</quote>
+			<item>
+				Semua Universal Likes (kecuali Amaranth dan Pizza)
+				Semua Buah-Buahan (Kecuali pomegranate dan salmonberry)
+				Octopus
+				Squiad
+			</item>
+		</like>
+		<neutral>
+			<quote>Oh, hadiah! Terima Kasih!</quote>
+			<item>
+				Semua Universal Neutral (kecuali Duck Feather)
+				Semua Telur (kecuali void egg)
+				Semua Ikan (kecuali Carp, Lobster, Octopus, Sea Cucumber, Snail, dan Squid)
+				
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Hmm.. saya bukan fans besar untuk barang ini..</quote>
+			<item>
+				Semua Universal Dislike (Kecuali Ikan)
+				Semua Susu.
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Dandelion
+				Hazelnut
+				Holly
+				Leek
+				Morel
+				Pizza
+				Purple Mushroom
+				Snow Yam
+				Wild Horsedish
+				Winter Root
+			</item>
+		</dislike>
+		<hate>
+			<quote>Barang ini memberiku perasaan mengerikan, aku harus membuangnya.</quote>
+			<item>
+				Semua Universal Hates
+				Amaranth
+				Quartz
+				Salmonberry
+				Sea Cucumber
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Masuk ke kabin Elliot ketika dia ada disana.
+				Elliot akan menyapamu, dia akan menjelaskan bahwa dia datang ke Pelican Town untuk menjadi penulis, tetapi dikampung halamanya tidak ada yang percaya dia akan berhasil. Dia menanyakan pada mu, novel seperti apa yang kamu suka. Setiap pilihan bernilai +30 point Friendship. Dia mengatakan bahwa dia akan mengingat pilihanmu, dan memberitahumu untuk melihat ke bunga mawarnya, karna dia pikir itu akan layu.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuklah ke Saloon pada jam 3pm-10pm saat Gus berada disana.
+				Gus akan mengantarkan pesanan anda, sebelum dia mengantarkannya, Elliot akan datang menghampirimu dan mengatakan bahwa ini adalah kejutan bagus karna menemui anda disini. Dia mengatakan dia akan berhenti untuk relaxing setelah 8 jam menulis. Dia mengorder dua buah Ale, satu untuk anda dan satu untuk dia, dia akan memberimu Wine jika karakter mu perempuan. Kamu menghentikan dia untuk bersulang, dan terdapat pilihan : 
+				"To Pelican Town!" (+25 friendship.) "Ah, untuk masa depan harmonis bagi komunitas ini, ide yang bagus.. Untuk Pelican Town!"
+				"To our friendship!" (+50 friendship.) "Ide yang sangat bagus! Untuk Kita!"
+				"To my good health!" (-10 friendship.) "Ya... Ok.."
+				"To your doom!" (-50 friendship.) "Hmph. Lupakan saja."
+
+				Kalian berdua memulai minum, dan diapun mulai menari. Kemudian skenario berakhir, dan meninggalkan efek tipsy (mabuk) ke karakter anda.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuk kerumah Elliot ketika dia disana.
+				Elliot sedang bermain piano. Setelah dia selesai, kamu bisa memilih jawaban "That was wonderful" ataupun "How long have you been playing?" (keduanya tidak ada efek friendship). Elliot mulai bercerita tentang berapa sulitnya hidup dia sekarang, dan berharap dia menjadi petani seperti anda. Kamu bisa mengatakan "It's just as hard to be a farmer, you know" atau "Come live on the farm, I could use the extra help" (keduanya tidak ada efek friendship). Jika kamu mengajaknya bergabung, dia akan terkejut dan mengatakan dia tidak bisa, karna novelnya hampir selesai.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Elliot akan mengundangmu untuk mendengarkan dia membacakan novelnya di Museum pada jam 1pm-7pm.
+				Ketika anda memasuki Museum, anda akan menemukan banyak sekali penduduk berkumpul untuk mendengarkan novel Elliot. Elliot juga mengekspresikan kegembiraan dia atas kedatanganmu. Dia membacakan novelnya. Tergantung dari pilihan mu saat event pertama, kamu akan mendapatkan beberapa cerita berbeda. Setelah itu Elliot berterimakasih atas kedatangan seluruh hadirin, dan berjalan kearahmu dan menanyakan pendapatmu. Dia mengatakan dia senang karna kamu menyukainya, karna dia memilihnya untukmu dan dia membasiskan novelnya dengan pilihanmu.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Datanglah kepantai ketika tidak sedang hujan pada jam 7am - 1pm. Surat akan dikirimkan padamu, tetapi itu tidak diperlukan untuk mengaktifkan event.
+				Elliot akan menuliskan surat bahwa dia memiliki ide. Kamu bergabung dengannya di dermaga, Elliot telah memperbaiki perahu yang ada didermaga tersebut, dan bertanya pada anda apakah anda ingin pergi bersamanya dalam "Maiden Voyage"(Perjalanan Perdananya).
+
+				Jika kamu menerimanya, elliot akan menceritakan tentang novelnya dan menceritakan jika dia tidak akan berhasil tanpa anda. Dan dia kehabisan kata-kata untuk mengekspresikan cinta kepada anda. Tiba-tiba dia mencium anda, kamu bergetaran dan bisa memilih antara "I'm Happy" atau "You're making me very uncomfortable. Stop." (jika kamu memilih ini, maka akan terkena penalti friendship kurang dari 1 hati.) Keduanya kembali ke pantai, dan Elliot mengomentari tentang bagaimana lembah itu terlihat seperti rumah.
+
+				Jika kamu menolak, maka elliot akan berkata "I see" dan event akan berakhir.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Lucione#6125</contributor>
+</Bachelors>

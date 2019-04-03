@@ -1,0 +1,165 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Aku mempelajari tanaman dan binatang lokal dari laboratoriumku. Pernahkah kamu bertemu anak perempuanku Maru? dia tertarik untuk bertemu denganmu </quote>
+	<schedule>
+		<desc>
+						Spring
+						Jadwal rutinitas
+						7:50 AM Di dapur rumahnya
+						11:20 AM Di laboratorium rumahnya
+						2:40 PM Pintu depan rumah
+						4:00 PM Berdiri di tebing arah tenggara rumahnya
+						7:40 PM Di dapur rumahnya
+						9:20 PM di kamar tidurnya
+
+						Summer
+						Jadwal rutinitas
+						7:50 AM Di dapur rumahnya
+						11:00 AM menuju air mancur (sebelah barat Community Center)
+						12:30 PM Tiba di Air mancur
+						7:00 PM Menuju rumahnya
+						8:40 PM di dapur rumahnya
+						8:50 PM menuju kamar tidur
+
+						Fall
+						Jadwal rutinitas
+						7:50 AM Di dapur rumahnya
+						12:00 AM Berdiri di sebelah utara danau,dekat dengan pintu masuk tambang
+						7:00 PM meninggalkan danau, menuju ruamhnya
+						8:40 PM Di dapur rumahnya
+						8:50 PM Menuju kamar tidur
+
+						Winter
+						Jadwal rutinitas
+						Di dalam rumahnya.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Demetrius menikah dengan Robin dan hidup bersama anaknya Maru dan anak tirinya Sebastian. Maru ialah anak dari Demetrius dan Robin. Dan Sebastian Anak dari Robin dari suami sebelumnya. Ini berarti Demetrius ialah suami kedua Robin, karena ada 2 buku dalam rak bukunya berjudul "Maximizing Your Second Marriage" dan "Practical Tips For First-Time Step-Dads." Demetrius sangat protektif terhadap Maru, dapat dilihat saat "two heart-event" Maru.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Kau memberikan ini padaku? Ini laur biasa!</quote>
+			<item>
+				Semua Universal Loves
+				Bean Hotpot
+				Ice Cream
+				Rice Pudding
+				Strawberry
+			</item>
+		</love>
+		<like>
+			<quote>Terimakasih! Ini adalah spesimen yang sangat menarik</quote>
+			<item>
+				Semua Universal Likes 
+				Semua telur (kecuali Void Egg)
+				Semua Buah (kecuali Strawberry)
+				Purple Mushroom
+			</item>
+		</like>
+		<neutral>
+			<quote>Itu sangat bijaksana.</quote>
+			<item>
+				Semua Universal Neutrals
+				Semua Ikan (kecuali Carp dan Snail)
+				Semua susu
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Dandelion
+				Hazelnut
+				Leek
+				Morel
+				Snow Yam
+				Wild Horsereadish
+				Winter Root
+
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Apa ini..?</quote>
+			<item>
+				Semua Universal Dislike (Kecual ikan)
+				quartz
+		</dislike>
+		<hate>
+			<quote> Ini Menjijikan.</quote>
+			<item>
+				Semua Universal Hates
+				Holly
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				
+				Demetrius memberikan resep di kotak surat
+				[Fried Mushroom]
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuk rumah Demetrius saat dia dan Robin ada di dalam.
+
+				Detail
+				Kamu melihat Demetrius dan Robin sedang berdebat. Robin meminta Demetrius untuk mendapatkan buah, Lalu Demetrius membawa Tomat. Robin berseru bahwa tomat bukanlah buah "asli". Demetrius menyanggah dengan berkata bahwa tomat adalah buah. Demetrius bertanya untuk meminta pendapat apakah tomat merupakan buah atau sayuran. Responmu akan berdampak pada pertemanannya.
+
+				Sayuran (-30 pada pertemanan)
+				Buah (+50 pada pertemanan)
+			</desc>. 
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Demetrius memberikan resep di kotak surat.
+				[Autumn's Bounty]
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+		<grouptenheartevent>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</grouptenheartevent>
+	</heartevents>
+	<contributor>Balee#8737</contributor>
+</Townspeople>

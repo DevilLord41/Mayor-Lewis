@@ -1,0 +1,124 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Wizard mempelajari dunia spiritual dari towernya yang berada di hutan cindersap. Ia fasih dalam banyak bahasa unsur.</quote>
+	<schedule>
+		<desc>
+			Wizard, yang juga dikenal sebagai M. Rasmodius, adalah seorang penduduk yang tinggal di Wizard's Tower bagian ujung barat Cindersap Forest.			
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			-
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Ahh, ini dipenuhi dengan energi misterius. Ini sangat berguna untuk pelajaranku. Terima kasih!</quote>
+			<item>
+				Semua Universal Loves
+				Purple Mushroom
+				Solar Essence
+				Super Cucumber
+				Void Essence
+			</item>
+		</love>
+		<like>
+			<quote>Terima kasih banyak. Benda ini adalah properti yang sangat menarik.</quote>
+			<item>
+				Semua Universal Likes
+				Semua Geode Minerals
+				Quartz
+			</item>
+		</like>
+		<neutral>
+			<quote>Terima kasih, ini pasti akan berguna, kurasa.</quote>
+			<item>
+				Semua Universal Neutral
+				Semua Buah (kecuali Fruit Tree Fruit dan Salmonberry)				
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Ini?... Kurasa aku akan melemparkannya ke api dan melihat apa yang akan terjadi.</quote>
+			<item>
+				Semua Universal Dislike (kecuali Geode Minerals, Solar Essence, dan Void Essence)
+				Semua Telur
+				Semua Susu
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Dandelion
+				Hazelnut
+				Holly
+				Leek
+				Morel
+				Salmonberry
+				Slime
+				Snow Yam
+				Wild Horseradish
+				Winter Root
+			</item>
+		</dislike>
+		<hate>
+			<quote>Ughh,,, benda ini duniawi sekali. Tolong jangan ganggu aku dengan benda ini lagi.</quote>
+			<item>
+				Semua Universal Hates (kecuali Slime)
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Pemain akan mendapat akses menuju ruang bawah tanah di Wizard's Tower, dimana kamu bisa mengganti penampilan karakter di The Shrine of Illusions dengan 500g.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>yoshi4ury#8689</contributor>
+</Townspeople>

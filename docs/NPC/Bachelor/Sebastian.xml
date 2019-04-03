@@ -1,0 +1,164 @@
+<Bachelors>
+	<type>Bachelors</type>
+	<quote>Sebastian adalah seorang penyendiri yang tinggal di basement bersama orang tuanya. Ia adalah saudara tiri Maru, dan merasa bahwa adiknya mendapatkan semua perhatian dan kasih sayang, sementara ia dibiarkan menyendiri di kegelapan. Ia cenderung tenggelam dalam permainan komputer, buku komik, dan novel sci-fi, dan terkadang ia menghabiskan waktunya untuk menjalankan hobinya sendiri di ruangannya. Ia bisa sedikit tidak ramah dengan orang yang ia tidak kenal. Bisakah petani baru menyuburkan hatinya yang gersang? Siapa tahu? </quote>
+	<schedule>
+		<desc>
+			Sebastian adalah penduduk yang tinggal di gunung bagian utara Pelican Town. Ia adalah salah satu dari dua belas karakter yang dapat dinikahi. Sebastian tinggal di basement Robin's carpenter shop, bagian utara kota.		
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Sebastian tinggal bersama ibunya, Robin, beserta ayah tirinya Demetrius dan saudari tirinya Maru. Robin terkadang memanggilnya Sebby. Ia merasa Maru diperhatikan lebih baik daripada dirinya, dan ketika mengadakan obrolan musim dingin tentang membangun manusia salju dan Demetrius ingin Sebastian untuk pergi, ia kemudian akan marah dan menanyakan apa masalah dari ayah tirinya itu.
+			
+			Sebastian adalah teman baik Sam, mereka berdua dapat ditemui ketika mereka sedang nongkrong di rumah Sam atau di The Stardrop Saloon bermain biliar. Mereka juga sering berkumpul saat festival, bersama Abigail. Sepertinya ia memiliki perasaan dengan Abigail, setelah Sam memberitahu pemain bahwa Sebastian ingin sekali Abigail menjadi drummer mereka "dengan alasan tertentu". Selain itu, jika pemain menikah dengan Maru, Maru terkadang mengatakan "ia berharap kakaknya bisa mengajak Abigail pergi".
+			
+			Selama Flower Dance, jika tidak menari dengan pemain, Sebastian akan menari dengan Abigail
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Aku sangat menyukai ini. Darimana kau tahu?</quote>
+			<item>
+				Semua Universal Loves
+				Frozen Tear
+				Obsidian
+				Pumpkin Soup
+				Sashimi
+				Void Egg
+			</item>
+		</love>
+		<like>
+			<quote>Terima kasih, aku menyukainya.</quote>
+			<item>
+				Semua Universal Likes (kecuali Flowers, Complete Breakfast, Farmer's Lunch, Omelet, dan Artisan Goods selain Coffee, Mead, dan Oil)
+				Quartz
+			</item>
+		</like>
+		<neutral>
+			<quote>...terima kasih.</quote>
+			<item>
+				Semua Universal Neutral
+				Semua Buah (kecuali Fruit Tree Fruit dan Salmonberry)
+				Semua Ikan (Kecuali Carp dan Snail)
+				Semua Susu
+			</item>
+		</neutral>
+		<dislike>
+			<quote>...?</quote>
+			<item>
+				Semua Universal Dislike (kecuali Clay, Fish, Obsidian, dan Void Egg)
+				Semua Bunga (kecuali Poppy)
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Dandelion
+				Hazelnut
+				Holly
+				Leek
+				Morel
+				Purple Mushroom
+				Salmonberry
+				Snow Yam
+				Wild Horseradish
+				Winter Root
+			</item>
+		</dislike>
+		<hate>
+			<quote>...aku benci ini.</quote>
+			<item>
+				Semua Universal Hates
+				Semua Artisan Goods (kecuali Coffee, Mead, dan Oil)
+				Semua Telur (kecuali Void Egg)
+				Clay
+				Complete Breakfast
+				Farmer's Lunch
+				Omelet
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Masuki ruangan sebastian ketika ia ada disana.
+				
+				Kamu menemui Sebastian sedang bekerja di komputernya. Ketika ia selesai, ia mengatakan bahwa ia adalah seorang programmer yang bekerja dalam project untuk clientnya. Kemudian muncul notifikasi di komputernya, dan Sebastian menjelaskan bahwa Sam mengajak untuk nongkrong, namun ia merasa tidak ingin pergi keluar. Robin kemudian memasuki ruangannya, memberitahu bahwa Abigail sedang mencarinya dan akan mampir. Sebastian lalu menyuruh Robin untuk berkata kepadanya bahwa ia sedang sibuk. Robin berkata iya, namun Abigail bersikeras untuk tetap mampir. Robin meninggalkan ruangannya, dan Sebastian mengungkapkan kekesalannya bahwa tidak ada yang menganggapnya serius.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Pergi ke gunung diantara jam 11 pagi dan 5 sore
+				
+				Kamu akan melihat Sebastian sedang bekerja dengan motornya di garasi rumahnya. Ia menjelaskan bahwa motor ini miliknya dan terkadang ia pergi berkendara sendirian jauh dari Stardew Valley. Ia mengatakan bahwa ada kemungkinan suatu hari kamu akan diajak berkendara bersamanya. Kamu bisa menyetujuinya atau tidak. Pilihan tersebut tidak mempengaruhi pertemanan.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuki ruangan Sebastian ketika ia ada disana.
+				
+				Sebastian akan menyapamu, dan mengajakmu bermain Solarion Chronicles: The Game bersamanya. Kamu akan bermain melalui skenario, yang dimana kamu akan mendapatkan skor antara A hingga D. Kamu akan memilih class:
+				
+				"Warrior. I like a direct approach." (Tidak ada efek friendship)
+				"Healer. I prefer to help others." (Tidak ada efek friendship)
+				"Wizard. A sharp mind is the most powerful blade of all." (Tidak ada efek friendship)
+				
+				Tiap class tidak mempengaruhi pertemanan, dan kamu bisa mendapatkan skor sempurna dengan class apapun:
+				
+				1. Go through the front door / Pergi lewat pintu depan.
+				2. Attack and then shield from the skeleton / Serang dan berlindung dari para skeleton.
+				3. Go through the left hallway glowing with a green light / Pergi lewat jalan ke kiri yang bersinar dengan cahaya hijau.
+				4. Destroy the capsules / Hancurkan kapsulnya.
+				5. Selama final battle:
+					Warrior: lindungi temanmu ketika penyihir mengucapkan mantera. Kamu akan dapat menyerang boss, dan skenario selesai.
+					Healer: sembuhkan Wizard milik Sebastian. Sebastian akan merasa senang dan mengalahkan bossnya.
+					Wizard: gunakan perisai penghalang ketika musuh mengucapkan mantera. Penyihir musuh akan menyerang Sebastian, namun perisai penghalangmu memantulkan serangannya dan mengenai wajah musuh, kemudian membunuhnya.
+				
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Pergilah ke pantai ketika sedang hujan diantara jam 12 siang sampai jam 11 malam.
+				
+				Sebastian sedang berdiri di dermaga. Ia terkejut ketika melihatmu di luar ketika sedang hujan. Ia berkata bahwa ia merasa gugup di dekat orang orang lain, namun ia tidak merasakan hal itu ketika ia sedang bersamamu. Kemudian ia mengeluarkan sebuah payung dan memberikan isyarat untukmu agar ikut berteduh bersamanya.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Pergilah ke gunung diantara jam 8 malam hingga tengah malam.
+				
+				Sebastian berada di luar rumahnya. Ia mengatakan bahwa ia akan pergi mengendarai motornya. Kamu akan ikut bersamanya berkendara, dan ia akan membawamu ke tempat dimana ia sering pergi sendirian untuk memikirkan tentang hidupnya sembari menikmati pemandangan kota dari kejauhan.
+				Jika karaktermu adalah wanita, ia berkata bahwa ia tidak biasanya membawa gadis ke tempat ini. Selain itu, ia mengakui kalau ia tidak pernah merasakan hal ini dengan orang lain, namun kamu berbeda.
+				Ia kemudian menghisap rokoknya beberapa saat, lalu kemudian ia bertanya tentang apa yang kamu pikirkan dengan kota ini. Kamu memiliki empat opsi, salah satunya adalah menyuruhnya untuk berhenti merokok. Memilih pilihan ini akan membuat Sebastian sangat terganggu, ia mengatakan bahwa kamu sama seperti ibunya, kemudian ia mengakui bahwa itu kebiasaan yang buruk dan ia akan mencoba untuk berhenti.
+				Ia lalu mengakui perasaan yang sebenarnya untukmu, dan kamu akan berpelukan di bawah bulan purnama.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>yoshi4ury#8689</contributor>
+</Bachelors>

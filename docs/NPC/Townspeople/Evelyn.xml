@@ -1,0 +1,139 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Evelyn telah tinggal di Pelican Town semasa hidupnya. Selalu berharap dan optimis, "Granny" menghabiskan waktunya dengan merawat kebun, membuat kue andalannya, dan mengenang masa lalu Stardew Valley </quote>
+	<schedule>
+		<desc>
+			Dia dapat ditemukan di dalam rumahnya atau sedang merawat kebun di pusat kota. Saat tanggal 2 setiap musimnya, Dia mengunjungi Klinik, dan saat tanggal 23 setiap musimnya dia menemani George sebagai janjinya.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Evelyn menikah dengan George, dan dia memiliki cucu bernama Alex. Ibu Alex (Clara) merupakan anak dari Evelyn's yang telah meninggal.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Ini benar benar menakjubkan! Kau membuat Wanita tua sangat bangga.</quote>
+			<item>
+				Semua Universal Loves
+				Beet
+				Chocolate Cake
+				Diamond
+				Fairy Rose
+				Stuffing
+				Tulip
+			</item>
+		</love>
+		<like>
+			<quote>Astaga ini terlihat indah! Kau baik sekali.</quote>
+			<item>
+				Semua Universal Likes (Kecuali Fried Eel, Garlic, Maki Roll, Sashimi, Spicy Eel, dan Trout Soup)
+				Semua susu
+				Daffodil
+			</item>
+		</like>
+		<neutral>
+			<quote>Bagusnya. Terimakasih my dear.</quote>
+			<item>
+				Semua Universal Neutrals (kecuali Clam dan Coral)
+				Semua Telur (kecuali void Egg)
+				Semua Buah (kecuali Fruit Tree Fruit, Salmonberry, dan Spice Berry)
+				Chanterelle
+				Common Mushroom
+				Dandelion
+				Hazelnut
+				Leek
+				Morel
+				Purple Mushroom
+				Snow Yam
+				Winter Root
+
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Um, Di mana harus aku simpan?.</quote>
+			<item>
+				Semua Universal Dislike (Kecual Clay dan Fish)
+				quartz
+				Wild Horseradish
+		</dislike>
+		<hate>
+			<quote> Baunya mengerikan.</quote>
+			<item>
+				Semua Universal Hates
+				Semua Ikan
+				Clam
+				Clay
+				Coral
+				Fried Eel
+				Garlic
+				Holly
+				Maki Roll
+				Salmonberry
+				Sashimi
+				Spice Berry
+				Spicy Eel
+				Trout Soup
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuk Rumah Evelyn saat dia berada di dalam
+
+				Ketika mengunjungi Rumahnya kamu melihat dia sedang membuat kue. Dia akan menawarkan kuenya, dan kamu memiliki pilihan untuk memuji kuenya atau mengatakan itu seperti mengunyah kepingan hoki. Apapun jawabannya dia akan memberikanmu "Cookie recipe".
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Tidak ada event.
+			</desc>. 
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Evelyn memberikan resep di kotak surat.
+				[Rice Pudding]
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Balee#8737</contributor>
+</Townspeople>

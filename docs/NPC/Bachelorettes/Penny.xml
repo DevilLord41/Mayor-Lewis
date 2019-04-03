@@ -1,0 +1,217 @@
+<Bachelorettes>
+	<type>Bachelorettes</type>
+	<quote> Penny tinggal bersama ibunya, Pam, di sebuah trailer kecil di tepi sungai.
+			Sementara Pam pergi keluar menuju bar, Penny diam-diam cenderung melakukan pekerjaan rumah di ruangan remang-remang, 
+			yang terpaksa dia panggil ke rumah. Dia merupakan seorang yang pemalu dan rendah hati, tanpa ambisi besar untuk hidup 
+			selain menetap dan memulai sebuah keluarga. Dia suka memasak (meskipun keterampilannya dipertanyakan) dan membaca buku 
+			dari perpustakaan setempat.</quote>
+	<schedule>
+		<desc>
+			Penny biasanya dapat ditemukan di kota membaca atau sedang membersihkan di trailer yang ia tinggal bersama ibunya, Pam. 
+			Pada hari Selasa, Rabu, dan Jumat dia mengajari Jas dan Vincent di museum, mengantar mereka berdua pulang sesudahnya. 
+			Dia tidak mengajar di musim panas. Pada hari Sabtu di Musim Semi dan Musim Gugur dia akan membawa mereka ke taman bermain kota.	
+
+			Pada tanggal 4 Musim Dingin, dia punya janji bertemu di klinik.
+
+Saat hujan, Penny bisa ditemukan di trailernya atau mengunjungi museum sambil melihat buku-buku.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Penny tinggal bersama ibunya Pam. Dia berteman dengan Sam.
+
+			Dia juga mengajar anak-anak setempat, Jas dan Vincent, di museum beberapa hari seminggu dan terkadang menemani mereka 
+			ke taman bermain.
+
+			Selama cutscene delapan hati, Vincent berkomentar bahwa ia pernah melihat Sam dan Penny memanjat pohon, di mana Penny menjadi tampak jelas kaget dan menegur Vincent karena bergosip. ConcernedApe telah menjelaskan bahwa dia "tidak berusaha menyiratkan sesuatu yang serius" dengan Adegan tentang kelanjutan minat Penny pada Sam. "Ketika mencapai 8 Hati ... dia tidak benar-benar tertarik pada Sam lagi."
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Terima kasih! Saya sangat suka ini!</quote>
+			<item>
+				Semua Universal Loves (Kecuali Rabbit's Foot)
+				Diamond
+				Emerald
+				Melon
+				Poppy
+				Poppyseed Muffin
+				Red Plate
+				Roots Platter
+				Sandfish
+				Tom Kha Soup
+			</item>
+		</love>
+		<like>
+			<quote>Terima kasih! Ini terlihat spesial.</quote>
+			<item>
+				Semua Universal Likes (Kecuali Algae Soup, Beer, Mead, Pale Ale, Pale Broth, dan Wine)
+				Semua Susu
+				Dandelion
+				Leek
+			</item>
+		</like>
+		<neutral>
+			<quote>Terima kasih, ini terlihat bagus.</quote>
+			<item>
+				Semua Universal Neutrals (Kecuali Duck Feather, Hops, dan Wool)
+				Semua Eggs (Kecuali Void Egg)*
+				Semua Fruit (Kecuali Fruit Tree Fruit, Grape, Melon, dan Salmonberry)
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Hazelnut
+				Morel
+				Snow Yam
+				Wild Horseradish
+				Winter Root
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Eh, ini untukku? ...Terima kasih.</quote>
+			<item>
+				Semua Universal Dislikes (Kecuali Sandfish)
+				Algae Soup
+				Duck Feather
+				Pale Broth
+				Purple Mushroom
+				Quartz
+				Red Mushroom
+				Salmonberry
+				Wool
+			</item>
+		</dislike>
+		<hate>
+			<quote>Ugh ... Maaf, tapi aku benar-benar benci ini.</quote>
+			<item>
+				Semua Universal Hates (Kecuali Poppy dan Red Mushroom)
+				Beer
+				Grape
+				Holly
+				Hops
+				Mead
+				Pale Ale
+				Rabbit's Foot
+				Wine
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Masuki Kota Pelican pada hari yang cerah antara jam 9 pagi dan 2 siang.
+				
+				George melihat ke dalam kotak suratnya dan bertanya-tanya bagaimana ia akan mencapainya. 
+				Penny melihatnya dan mengeluarkan surat untuknya. George kesal karena terlihat tidak berdaya dan menegurnya. 
+				Penny melihat kamu dan bertanya apakah kamu memperhatikan mereka.
+				
+				- "Ya. Kamu melakukan hal yang baik di sana, Penny." (+50 persahabatan.) Penny terima kasih, tetapi tidak senang bahwa George kesal.
+				- "Seharusnya kau meninggalkannya sendirian. Sekarang dia pemarah." (-50 persahabatan.) Penny meminta maaf kepada George.
+				- "Aku hanya jalan-jalan, mengurus bisnisku sendiri." (Tidak ada efek pada persahabatan.) Penny menjawab "Aku mengerti".
+				
+				Apa pun pilihan mu, George menghela napas dan meminta maaf kepada Penny karena telah marah. Dia mengatakan itu sangat baik padanya untuk membantu. Penny mengatakan dia mengerti. Setelah George pergi, Penny mengatakan pasti sulit menjadi tua.
+
+				- "Aku lebih suka tidak memikirkannya." (Tidak ada efek pada persahabatan.)
+				"Itu hanya bagian kehidupan yang berbeda." (Tidak ada efek pada persahabatan.) 
+				- "Karena itulah sebabnya kita harus menghormati yang lebih tua." (Tidak ada efek pada persahabatan.) 
+				- "Aku lebih baik mati muda ..." (Tidak berpengaruh pada persahabatan.) 
+				
+				Penny mengucapkan perpisahan dan pergi.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuk kedalam trailer saat dia di rumah.
+				
+				Penny mengeluh tentang betapa berantakannya tempat ini, dan bertanya apakah kamu bisa membantu membersihkannya. 
+				Ketika kamu melakukannya, Pam kembali ke rumah dan berteriak pada Penny karena membiarkan orang lain membersihkan rumahnya. 
+				Pam akhirnya meminta kamu untuk pergi, dan mereka melanjutkan diskusi mereka secara pribadi. 
+				Pam mengakui bahwa dia malu orang asing membersihkan rumahnya. Hari berikutnya, Kamu mendapat surat permintaan maaf dari Penny.
+				
+				Perhatikan bahwa event ini tidak akan terpicu jika pemain telah membeli Community Upgrade.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuk kedalam trailer saat dia di rumah.
+			
+				Penny meminta Anda untuk mencoba resep yang ia ciptakan.
+				
+				- "(Berbohong) Mmm! Enak sekali!" (+50 persahabatan.) Dia menjawab: "Kamu benar-benar bersungguh-sungguh? 
+				Terima kasih! ... sungguh melegakan mendengarnya. Aku sudah bekerja keras untuk resep ini, dan aku sangat bangga 
+				karenanya. Hei , karena kamu adalah orang pertama yang mencobanya, aku akan menamai yang ini 'Chili de "namamu"'."
+				- "Uh ... bisakah aku minta sisanya pergi?" (-50 persahabatan.) Penny kecewa dan mengatakan resepnya gagal.
+				- "Yah, itu benar-benar unik ... bagaimana kamu membuatnya sangat kenyal?" (Tidak berpengaruh pada persahabatan.) 
+				Penny kecewa dan mengatakan resepnya gagal. 
+				
+				Terlepas dari pilihan mu, dia mengundang kamu untuk menonton film bersama dan energi kamu bertambah 165.
+				Perhatikan bahwa event ini tidak akan terpicu jika pemain telah membeli Community Upgrade.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Penny sedang dalam karyawisata dengan Jas dan Vincent. Penny bertanya kepada kamu apakah kamu ingin menjadi 
+				pembicara tamu dan berbagi pengalaman mu tentang pedesaan dengan anak-anak.
+				
+				- "Dengan senang hati!" (+10 persahabatan.) 
+				- "Tentu." (Tidak berpengaruh pada persahabatan.)
+				- "Tidak ... aku tidak tahan dengan anak-anak." (-1500 pertemanan.) 
+				
+				Jika kamu setuju untuk berbicara dengan anak-anak, Kamu diminta untuk sejumlah opsi dialog (yang tidak berpengaruh pada persahabatan). 
+				Setelah itu, Penny memberi tahu anak-anak untuk bermain dan bertanya apakah kamu ingin menjadi orang tua.
+
+				- "Aku belum benar-benar memikirkannya." (Tidak ada pengaruh pada persahabatan.)
+				- "Tentu saja. Aku ingin keluarga besar." (+20 persahabatan.) 
+				- "Kurasa begitu. Ini dorongan alami." (+20 persahabatan.)
+				- "Tidak, kurasa aku tidak akan baik dalam hal itu." (+10 persahabatan.)
+				- "Tidak, dunia sudah cukup ramai." (-10 persahabatan.)
+				- "Tidak, aku tidak ingin terikat dengan keluarga." (-10 persahabatan.) 
+				
+				Adegan memudar dan dia mengucapkan terima kasih karena telah muncul.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Anda menerima surat dari Penny. Setelah menerima surat itu, masuki area kolam spa antara jam 19:00 dan tengah malam. Penny bergabung dengan mu di kolam renang. Dia bertanya apakah kamu tahu mengapa dia mengundang Anda ke sini.
+				
+				- "Ada yang ingin kamu katakan padaku." (Tidak berpengaruh pada persahabatan.) Dia menjawab, "Itu benar ..."
+				- "Aku tidak begitu yakin." (Tidak ada pengaruh pada persahabatan.) Dia menjawab, "Benarkah? Kupikir kamu sudah mengetahuinya sekarang ..."
+				- "Kamu ingin melihatku dalam pakaian renangku." (Tidak ada efek pada persahabatan.) Dia menjawab, "Tidak!"
+				
+				Penny mengungkapkan perasaannya kepadamu.
+
+				- "Aku merasakan hal yang sama denganmu." (Tidak ada efek pada persahabatan.) Jika pemainnya laki-laki, dia menjawab, "... Oh, namamu. Kupikir juga seperti itu, tapi aku tidak yakin ... Aku akan selalu mengingat malam ini." Kamu berciuman dan adegan berakhir. Jika pemainnya wanita, dia menjawab, "... Oh, namamu. Kupikir juga seperti itu, tapi aku tidak yakin. Kamu terlihat sangat cantik malam ini ... aku ... * terkesiap *" Kamu berciuman dan adegan berakhir.
+				- "Maaf, tapi aku tidak menyukaimu seperti itu ..." (-1500 persahabatan.) Dia menangis dan adegan berakhir.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Geralt#0227</contributor>
+</Bachelorettes>

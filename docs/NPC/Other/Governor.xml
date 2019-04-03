@@ -1,0 +1,93 @@
+<Other>
+	<type>Other</type>
+	<quote>Acara yang indah.. Ini selalu kegembiraan saat mengunjungi Stardew Valley.</quote>
+	<schedule>
+		<desc>
+			Ditemui pada event Luau.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Tidak diketahui.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Tidak bisa digift.</quote>
+			<item></item>
+		</love>
+		<like>
+			<quote>Tidak bisa digift.</quote>
+			<item></item>
+		</like>
+		<neutral>
+			<quote>Tidak bisa digift.</quote>
+			<item></item>
+		</neutral>
+		<dislike>
+			
+			<quote>Tidak bisa digift.</quote>
+			<item></item>
+		</dislike>
+		<hate>
+			<quote>Tidak bisa digift.</quote>
+			<item></item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Lucione#6125</contributor>
+</Other>

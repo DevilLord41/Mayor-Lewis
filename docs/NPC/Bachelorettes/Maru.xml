@@ -1,0 +1,196 @@
+<Bachelorettes>
+	<type>Bachelorettes</type>
+	<quote> Tumbuh dengan orang tua sebagai tukang kayu dan ilmuwan, Maru memiliki hasrat untuk menciptakan gadget di usia muda.
+			Ketika dia tidak berada di kamarnya, mengutak-atik alat dan mesin, dia kadang-kadang melakukan pekerjaan sambilan di klinik setempat. Bersahabat, ramah, dan ambisius, Maru akan menjadi pasangan yang cukup beruntung bagi pendatang baru seperti kamu... Bisakah kamu memenangkan hatinya, atau akankah dia menyelinap melalui jarimu dan menghilang dari hidupmu selamanya?</quote>
+	<schedule>
+		<desc>
+			Tidak ada rangkuman untuk schedule Maru, silahkan kontribusi.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Maru tinggal bersama orang tuanya Demetrius dan Robin, serta saudara tirinya Sebastian yang merupakan putra Robin. 
+			Dia memiliki hubungan yang kurang baik dengan Sebastian dan berharap mereka menjadi lebih dekat. Maru bekerja untuk Harvey di klinik, dan keduanya khawatir tidak menerima cukup banyak pasien.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Apakah itu...? Oh wow, (Nama)! Ini spektakuler!</quote>
+			<item>
+				Semua Universal Loves
+				Battery Pack
+				Cauliflower
+				Cheese Cauliflower
+				Diamond
+				Gold Bar
+				Iridium Bar
+				Miner's Treat
+				Pepper Poppers
+				Rhubarb Pie
+				Strawberry
+			</item>
+		</love>
+		<like>
+			<quote>Ini adalah hadiah super! Terima kasih!</quote>
+			<item>
+				Semua Universal Likes (Kecuali Honey, Maple Syrup, dan Pickles)
+				Copper Bar
+				Iron Bar
+				Oak Resin
+				Pine Tar
+				Quartz
+			</item>
+		</like>
+		<neutral>
+			<quote>Terima kasih.</quote>
+			<item>
+				Semua Universal Neutrals (Kecuali Truffle)
+				Semua Telur (Kecuali Void Egg)*
+				Semua Buah (Kecuali Blackberry, Crystal Fruit, Fruit Tree Fruit, Salmonberry, dan Strawberry)
+				Semua Susu
+				Chanterelle
+				Daffodil
+				Dandelion
+				Hazelnut
+				Leek
+				Morel
+				Purple Mushroom
+				Wild Horseradish
+				Winter Root
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Oh ... Itu untukku? aku akan menaruhnya di sini ...</quote>
+			<item>
+				Semua Universal Dislikes (Kecuali Battery Pack, Copper Bar, Gold Bar, Iridium Bar, Iron Bar, Oak Resin, dan Pine Tar)
+				Blackberry
+				Common Mushroom
+				Crystal Fruit
+				Maple Syrup
+				Salmonberry
+			</item>
+		</dislike>
+		<hate>
+			<quote>Yuck! Kamu pikir aku akan suka ini?</quote>
+			<item>
+				Semua Universal Hates
+				Holly
+				Honey
+				Pickles
+				Snow Yam
+				Truffle
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Masuk ke dalam Toko Tukang Kayu ketika Maru ada di sana.
+				Kamu menemukan Maru dan Demetrius menguji sampel tanah di lab mereka. Maru meminta kamu untuk melihat gelas kimia
+				sambil mengambil sampel lebih banyak. Ketika dia pergi, Demetrius memberi tahu kamu bahwa Maru adalah anak 
+				yang baik dan 'gadis kecil yang istimewa', dan dia tidak ingin ada yang menghalangi masa depannya yang cerah. 
+				Ketika Maru kembali, Demetrius mengatakan kamu telah berbicara tentang sampel tanah.
+				
+				- (Tidak mengatakan apa-apa) (+10 persahabatan dengan Demetrius.) Demetrius dan Maru kembali bekerja.
+				- "Sebenarnya, ayahmu bersikap aneh." (-100 Persahabatan dengan Demetrius.) Maru bertanya pada Demetrius apa yang 
+				kamu bicarakan. Demetrius mengatakan yang sebenarnya dan meminta maaf atas perilakunya.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuk ke klinik ketika Maru ada di sana.
+				Maru dikejutkan oleh kedatanganmu dan menjatuhkan gelas kimia yang dipegangnya. Khawatir tentang tanggapan Harvey, dia bertanya apa yang harus dia lakukan.
+				
+				- "Ambil saja dari lantai. Dia tidak akan tahu bedanya." (-50 persahabatan.) Dia mengatakan bahwa tentu saja 
+				Harvey akan dapat membedakannya. Ketika Harvey datang untuk menyelidiki kebisingan, Maru mengatakan kepadanya bahwa itu kecelakaan dan meminta maaf.
+				- "Katakan pada Harvey itu salahku." (-20 persahabatan.) Ketika Harvey datang untuk menyelidiki kebisingan, dia memberi tahu Harvey bahwa itu salahmu.
+				- "Katakan pada Harvey itu kecelakaan." (+50 persahabatan.) Ketika Harvey datang untuk menyelidiki kebisingan, 
+				dia mengatakan kepadanya bahwa itu kecelakaan dan meminta maaf.
+				
+				Jika Maru menyalahkan kamu, Harvey kecewa karena dia tidak bertanggung jawab atas tindakannya sendiri dan 
+				mengatakan kesalahannya. Maru bingung dan kesal.
+
+				Jika Maru mengatakan itu kecelakaan dan meminta maaf, Harvey berterima kasih padanya karena mengatakan yang sebenarnya dan memberitahunya untuk tidak khawatir tentang hal itu. Maru mengucapkan terima kasih atas kesabarannya, dan Harvey mengatakan dia sangat membantu dan dia tidak tahu apa yang akan dia lakukan tanpanya. Dia menoleh ke kamu dan bertanya apakah kamu baik-baik saja, karena kamu terlihat agak pucat; Kamu berbalik dan mengeluarkan setetes keringat.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuki gunung pada hari yang cerah, antara jam 9 malam dan 11:40 malam
+			
+				Kamu melihat Maru melihat melalui teleskopnya. Dia terkejut melihatmu begitu terlambat, dan mengatakan dia ingin 
+				menunjukkan sesuatu padamu. kamu melihat melalui teleskopnya dan dia bertanya apa yang kamu lihat.
+				
+				- "Planet yang indah." (+30 persahabatan.) Maru menjawab, "Sungguh menakjubkan, bukan?"
+				- "Jurang yang dingin dan gelap." (-30 persahabatan.) Maru menjawab, "Aku kira kamu bisa melihatnya seperti itu ... Tapi itu merupakan sesuatu yang besar, bukan?"
+				
+				Maru mengatakan bahwa pada saat salah satu dari bintang-bintang ini bertemu, kita berdua akan menghilang. 
+				"Kurasa itu masalah dengan menjadi manusia, ya?" Dia mulai memberi tahu Anda sesuatu, kemudian berubah pikiran 
+				dan menunjukkan kepadamu sistem bintang biner. Cutscene berakhir ketika karakter kamu berpikir, 
+				"Malam yang indah! Maru menunjukkan kepadaku sesuatu yang baru ..."
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Masuk ke dalam Toko Tukang Kayu ketika Maru ada di sana.
+				
+				Maru mengatakan dia sedang mengerjakan proyek baru, sesuatu yang besar. Dia menunjukkan kepada kamu sebuah mesin 
+				dan mengatakan itu hanya satu komponen. Dia meminta kamu untuk meletakkan tanganmu di atasnya untuk demonstrasi, 
+				menekan saklar, dan kamu tersengat listrik. Maru kaget dan bertanya apakah kamu baik-baik saja. 
+				Dia menggunakan krim bakar dan meminta maaf.
+				
+				- "Tidak apa-apa, bahkan tidak sakit." (+30 persahabatan.)
+				- "Pastinya. Gila ini sakit sekali!" (-50 persahabatan.)
+				
+				Dengan pilihan mana pun, Maru mengatakan hal itu merusak momen, dan menghela nafas.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Masuki Toko Tukang Kayu mulai jam 9 pagi sampai jam 4 sore.
+				
+				Maru mengatakan proyek besarnya akhirnya selesai. Dia membawa kamu ke bengkel pribadinya untuk menunjukkan kepada 
+				kamu robot yang ia buat untuk membantu orang tuanya. Dia menyebutnya MarILDA, yang merupakan singkatan dari 
+				Maru's Interactive Laboratory Device Alpha. Dia memberi tahu kamu bahwa dia telah mengerjakannya selama berbulan-bulan, dan telah menunggu kamu untuk datang sebelum mengaktifkan MarILDA. Dia mengaktifkan robot, yang mengatakan, "Salam, Maru. Tidak perlu ditanggapi ... Aku sudah memperkirakan apa yang akan kamu katakan."
+
+				Maru menuntun MarILDA berjalan di luar. MarILDA berterima kasih kepada Maru karena menciptakannya dan meluncur ke luar angkasa. Maru melihatnya pergi dan bertanya apa pendapatmu.
+
+				- "Aku sangat terkesan dengan penemuanmu." (+50 persahabatan.) 
+				- "Aku kecewa ... kamu seharusnya menjadikan robot itu budakmu." (-50 persahabatan.) 
+				- "MarILDA hanyalah sebongkah mesin yang dirancang untuk bertindak layaknya manusia." (+50 persahabatan.) 
+				- "Aku hanya bercanda. MarILDA pantas mendapatkan kebebasannya." (+50 persahabatan.) 
+				- "Aku akan membuatnya bekerja di pertanian." (-50 persahabatan.)
+				- "Jadi, apakah ayahmu baik-baik saja dengan 'kita' sekarang?" (Tidak ada efek pada persahabatan.)
+				- (Hanya menatap Maru dan tidak mengatakan apa-apa) (Tidak berpengaruh pada persahabatan.)
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Geralt#0227</contributor>
+</Bachelorettes>

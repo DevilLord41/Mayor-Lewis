@@ -1,0 +1,149 @@
+<Bachelors>
+	<type>Bachelors</type>
+	<quote>Alex menyukai olahraga dan pergi keluar berjalan-jalan ke pantai. Dia sedikit sombong dan membual kesemua orang jika dia akan menjadi atlet professional. Apakah kesombonganya hanya untuk menutupi keraguanya? Apakah dia memakai mimpi atletnya untuk menutupi kekosongan yang ditinggalkan oleh orang tuanya? atau dia hanya pemuda kurang ajar yang mencoba tampil 'Keren'?</quote>
+	<schedule>
+		<desc>
+			Saat musim Spring, alex akan keluar rumah pada jam 8 AM kecuali saat hujan. Dia akan berdiri dipohon samping rumahnya, dan dia akan berjalan lurus kekiri area berpagar disore hari.
+
+			Saat musim Summer, dia bisa ditemukan dipantai pada pagi hari dan berjualan ice cream disamping kiri museum pada sore hari. Pada tanggal 16 Summer, dia akan mempunyai pertemuan dengan Harvey di klinik.
+
+			Saat musim Winter, dia akan bekerja di SPA hampir setiap hari.			
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Alex tinggal bersama kakek-neneknya, George dan Evelyn. Dia berteman dengan Haley. Dia juga mempunyai anjing bernama Dusty.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Hey, luar biasa! Aku mencintai barang ini.</quote>
+			<item>
+				Semua Universal Loves
+				Complete Breakfast
+				Salmon Dinner
+			</item>
+		</love>
+		<like>
+			<quote>Ini keren! Terima kasih.</quote>
+			<item>
+				Semua Universal Likes
+				Semua Telur (kecuali Void Egg)
+			</item>
+		</like>
+		<neutral>
+			<quote>Terima Kasih!</quote>
+			<item>
+				Semua Universal Neutral
+				Semua Buah
+				Semua Susu
+				Chanterelle
+				Common Mushroom
+				Daffodil
+				Dandelion
+				Hazelnut
+				Leek
+				Morel
+				Purple Mushroom
+				Snow Yam
+				Winter Root
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Um... Oke. Terima Kasih</quote>
+			<item>
+				Semua Universal Dislike
+				Salmonberry
+				Wild Horseradish
+			</item>
+		</dislike>
+		<hate>
+			<quote>Apakah kamu serius? Ini sampah.</quote>
+			<item>
+				Semua Universal Hates
+				Holly
+				Quartz
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Pada hari Sunny dimusim Summer, datang ke pantai ketika alex disana.
+				Kamu akan melihat Alex bersama gridballnya. Dia menyapamu dan mencoba mengopermu bola. Kamu gagal menangkapnya. Dia ketawa dan mengatakan bahwa itu usaha yang bagus. Dia pergi mengatakan pada musim, bahwa dia yakin dia akan menjadi pemain gridball professional pertama dari Stardew Valley. Dia menanyakan pada mu, apakah dia mempunyai kesempatan atau tidak.
+				- "I believe in you!" (tidak ada efek friendship) Alex berterima kasih padamu dan dia mengatakan dia akan mengingatnya.
+				- "Wow, you're really arrogant." (tidak ada efek friendship) Alex mengatakan bahwa kamu hanya iri padanya dan meninggalkanmu.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuklah ke kota pada jam 9am sampai 4pm.
+				Alex berada disamping kandang anjingnya. Dia berbicara pada anjingnya, yang namanya terungkap sebagai Dusty. Dia berkomentar tentang dia dan anjingnya telah melalui banyak hal, dan dia merasa disalah pahami. Kamu berjalan keluar dari belakanga Saloon, dan Alex menanyakan pada mu jika kamu mendengar pembicaraan dia atau tidak.
+				- "Yes, i heard everything." (tidak ada efek friendship)
+				- "Not really... why?" (Tidak ada efek friendship)
+				Yang manapun jadi pilihan, alex mengatakan alasan dia hidup dengan kakek-neneknya adalah karena ayahnya. Ayahnya adalah pecandu Alkohol dan akan secara lisan menyiksa Alex, memanggil dia "Tidak berguna". Suatu hari, ketika ayahnya pergi, and dalam singkat ibunya sakit dan meninggal dunia. Alex melanjutkan dengan mengatakan bahwa dia tidak boleh memikirkannya dan tidak butuh simpati. Mencoba untuk memperbaiki suasana, alex menawarkan anda kesempatan untuk melihat apa yang akan dilakukan Dusty dengan Barbercued Steak.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Masuklah kerumah Alex ketika dia disana.
+				Kamu menemuinya ketika dia sedang melihat lemari bukunya dan menyesali fakta bahwa dia belum membaca satupun buku disana. Dia mengatakan padamu, jika dia khawatir bahwa dia tidak akan mendapatkan posisi dalam kehidupan tanpa pengetahuan, dan dia merasa tidak berguna.
+				- "That's crazy. You're a genius!" (tidak ada efek friendship)
+				- "We all have our strengths and weaknesses." (+50 friendship)
+				- "Worthless? Yeah, that about sums it up." (-50 friendship)
+				Dan dia memutuskan jika dia bekerja keras dia menyelesaikan semua hal. Dia menyarankan itu padamu, dan bermakan malam dan berdiskusi tentang filosofi.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuklah kerumah Alex ketika dia disana.
+				Dia akan mengekspresikan keraguanya tentang menjadi pemain gridball professional. Dia meminta maaf padamu karna bersikap kasar dan sombong, lalu berterima kasih pada anda. Anda akan memberikan dorongan padanya, dan alex akan kembali melatih kekuatanya dengan semangat baru.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Pada hari Sunny dimusim Summer, temuilah Alex dipantai.
+				Alex sedang duduk dan nangis dipantai. Kamu menemuinya dan duduk disampingnya. Dia bilang bahwa hari ini adalah hari meninggalnya ibunya 12 tahun yang lalu. Dia menyesal banyak tidak sanggup berterimakasih pada ibunya saat ibunya mengasuhnya waktu kecil. Hal yang ditinggalkan ibunya padanya yaitu Music Box. Alex membuka music box tersebut dan memainkannya padamu. Ketika musik diputar, kamu akan melihat skenario Ibu Alex menggendong Alex saat bayi. Ketika musiknya habis, alex menanyakan padamu apa yang kamu pikirkan.
+
+				- "Honor your mother's memory by always doing your best." (tidak ada efek friendship) Alex setuju dan mengatakan bahwa dia akan bekerja lebih keras untuk menjadi pemain gridball professional.
+				- "You shouldn't dwell in the past." (tidak ada efek friendship)
+				- "I'll always be here for you if you get lonely." (tidak ada efek friendship) Alex berterimakasih dan dengan malu-malu mengatakan bahwa kamu adalah teman terbaiknya pada kota ini. Jika kamu laki-laki, dia akan mengatakan "You... you're different than other guys. More sensitive. I'm glad."
+				- "Get over it. Life is hard for everyone." (tidak ada efek friendship)
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Alex akan mengirimimu surat untuk menemuinya di Saloon pada hari malam, temuilah dia diantara 7pm-10pm.
+				Alex menyewa private room untuk kalian berdua, Gus memainkan viola dan Emily akan membawakan makanan.
+				Jika karakter anda adalah perempuan, alex mengatakan bahwa dia memiliki rasa cinta padamu, dan mantannya dimasa lalu menghilang dengan cepat, perasaan dia padamu terus berkembang. Jika karakter anda adalah laki-laki. Dia akan mengatakan pada mu, bahwa dia tertarik padamu pada saat pertama berjumpa. Meskipun dia membantah perasaan ini pada awalnya, sekarang dia telah memutuskan untuk mengikuti kata hatinya.
+
+				"I feel the same way." (tidak ada efek friendship) Alex senang karna kedua anda bisa saling mengatakan perasaan satu sama lain, dia dengan senang melahap steaknya. Dan tiba-tiba Dusty menerobos masuk lewat jendela, dan mengeluarkan air liur karna aroma makanan, Alex pun tertawa.
+				"I'm sorry... I don't feel that way about you." (tidak ada efek friendship) Perasaan alex hancur, dan dia meminta maaf padamu karna membuatmu tidak nyaman. Dia kehilangan nafsu makan.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Lucione#6125</contributor>
+</Bachelors>

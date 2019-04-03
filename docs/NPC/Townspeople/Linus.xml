@@ -1,0 +1,123 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Kamu bisa mempelajari cara untuk Bertahan Hidup di Alam Liar. Aku mempunyai. Aku pikir kita semua mempunyai keinginan untuk kembali ke alam liar.</quote>
+	<schedule>
+		<desc>
+			Linus adalah Penduduk dimana dia tinggal dalam tenda kecil di utara Pelican Town dekat Tambang.
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Linus umumnya memandang dirinya orang buangan dari kota. Dia tidak mempercayai orang - orang dan tidak merasa untuk memikirkan siapapun di kota temannya karena fakta bahwa kebanyakan orang tidak memperlakukan dia dengan baik. (Namun, berdasarkan di dialognya hanya bisa dilihat menggunakan exploit, Linus berteman dengan Wizard. Dialog ini bisa di akses jika player berbicara dengan Wizard dimana dia melihat Maze saat Event Hallowen.) Saat Festivals, dia bisa di temukan sendirian terpencil. Di satu titik, Linus memberi tahu player sebelumnya tendanya pernah hancur. Robin menyebutkan bahwa dia tidak masalah tinggal dibelakang rumahnya selama dia tidak menggangu.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Ini menakjubkan! Kau membuat hariku spesial.</quote>
+			<item>
+				Semua Universal Loves
+				Blueberry Tart
+				Cactus Fruit
+				Coconut
+				Dish o' The Sea
+				Yam
+			</item>
+		</love>
+		<like>
+			<quote>Ini adalah hadiah yang hebat. Terimakasih!</quote>
+			<item>
+				Suka Universal Like (kecuali Foraged Minerals dan Gems selain dari Diamond dan Prismatic Shard)
+				Semua Egg (kecuali Void Egg)
+				Semua Milk
+				Semua Fruit (kecuali Cactus Fruit dan Coconut)
+			</item>
+		</like>
+		<neutral>
+			<quote>Semua Hadiah? Bagusnya.</quote>
+			<item>
+				Semua Universal Neutrals
+				Semua Fish (kecuali Carp dan Snail)
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Hmm... ini sama sekali tidak membantuku.</quote>
+			<item>
+				Semua Universal Dislike (kecuali Fish dan Spring Onion)
+				Semua Foraged Minerals
+				Semua Gems (kecuali Diamond dan Prismatic Shard)
+			</item>
+		</dislike>
+		<hate>
+			<quote>Kenapa kamu mau memberikan ini kepadaku? Apa kamu pikir Aku suka sampah karena aku tinggal didalam tenda? Itu buruk sekali.</quote>
+			<item>
+				Semua Universal Hates
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				-
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				-
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Setelah mencapai 3 Hearts dengan Linus dia akan mengirim kamu sebuah recipe di dalam kotak surat.
+				Detail: Sashimi
+				Catatan Bug: Pada v1.3, Linus akan mengirim 7 hearts Recipe di 3 hearts, dan 3 hearts recipe di kirim hari berikutnya atau setelah hari ini
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuki area gunung dekat tendanya diantara 8pm - 12am di cuaca cerah atau bersalju
+				Detail: Linus akan mengundangmu ke tempat perkemahan. Dia akan minta maaf untuk tidak mempercayaimu saat pertama ketemu, dan terima kasih telah menjadi teman baik, dia mengundangmu ke tendanya, dimana dia memperlihatkanmu cara membuat Wild Bait untuk dipakai memancing.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				-
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				-
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Setelah mencapai 7 hearts dengan Linus, dia akan mengirim kamu sebuah recipe didalam kotak surat.
+				Detail: Fish Taco
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Keluar dari Rumah Robin di hari cerah diantara 9am dan 5pm
+				Detail: Robin, Linus, dan player muncul didepan rumah Robin. Robin menawarkan Linus makan siang, tapi dia menolak, mengatakan "aku sangat beruntung untuk mencari makan hari ini." Robin berbalik ke arah player dan bertanya jika ada yg ingin dikatakan dia.
+				Pilihan:
+				"Aku senang jika Linus baik - baik saja..." (+250 Friendship dengan Linus) "Linus berterima kasih kepada player dan juga dia cemas jika player bertanya kedia untuk dipindahkan ke Farmnya. Dia berkata bahwa dia mengapresiasi hormatnya player untuk pilihan hidupnya."
+				"Aku ingin mengundang Linus untuk tinggal di Farm dengaku..." (Tidak ada efek ke friendship.) "Robin menjadi gembira dan menawarkan untuk membuat "Rumah yang benar - benar nyaman" untuk Linus. Linus menolak, mengatakan bahwa dia mengapresiasi kebaikannya, tapi dia hidup dijalan yang dia pilih. Dia lebih suka tinggal sendiri, di alam liar harmony. Dia menambahkan nilai Friendshipnya dengan player."
+				
+				Cutscenenya berakhir dengan Linus lari untuk mengambil berries.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				-
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>DayatXD#6451</contributor>
+</Townspeople>

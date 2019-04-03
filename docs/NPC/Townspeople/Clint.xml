@@ -1,0 +1,163 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Lebih baik bekerja di luar ruangan dibanding menggunakan tungku panas setiap hari. Aku hanyalah seorang pandai besi karena ayahku mendorongku untuk melakukannya </quote>
+	<schedule>
+		<desc>
+						Jadwal sehari hari
+						9:00 AM Di belakang meja blacksmith
+						5:00 PM Meninggalkan meja dan berjalan menuju Anvil
+						7:00 PM Meninggalkan tempatnya lalu menuju saloon
+						12:00 AM Meninggalkan Saloon lalu menuju rumahnya
+
+						Pada hari Jumat setelah Community Center pulih.Clint tidak tersedia saat ingin membeli,menupgrade alat, atau memproses geode. 
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Clint sering mengunjungi saloon dengan tujuan bersosialisasi dengan Emily, Dia naksir kepada Emily tetapi canggung saat berdekatan dengan Emily. Sebuah dialog dengan Gus bahwa dia menyangka Clint menyukai Emily tetapi dia memilih untuk tidak menanyakan hal tersebut.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Ya! Inilah yang paling aku cari selama ini!.</quote>
+			<item>
+				Semua Universal Loves
+				Amethyst
+				Aquamarine
+				Artichoke Dip
+				Emerald
+				Fiddlehead Risotto
+				Gold Bar
+				Iridium Bar
+				Jade
+				Omni Geode
+				Ruby
+				Topaz
+
+			</item>
+		</love>
+		<like>
+			<quote>Ini hadiah yang menyenangkan. Terimakasih!</quote>
+			<item>
+				Semua Universal Likes (kecuali Bunga)
+				Copper Bar
+				Iron Bar
+			</item>
+		</like>
+		<neutral>
+			<quote>Terimakasih</quote>
+			<item>
+				Semua Universal Neutrals
+				Semua Telur (kecuali void egg)
+				Semua buah (kecuali Fruit Tree Fruit dan Salmonberry)
+				Semua Susu
+				Chanterelle
+				Common Mushroom
+				Coal
+				Daffodil
+				Dandelion
+				Gold Ore
+				Hazelnut
+				Iridium Ore
+				Leek
+				Morel
+				Purple Mushroom
+				Refined Quartz
+				Snow Yam
+				Winter Root
+			</item>
+		</neutral>
+		<dislike>
+			<quote></quote>
+			<item>
+				Semua Universal Dislike (Kecuali coal, Copper Bar, Gold Bar, Iriidum Bar, Iridium Ore, Iron Bar, Omni Geode dan Refined quartz)
+				Semua Bunga (Kecuali Poppy)
+				Quartz
+				Salmonberry
+				Wild Horseradish
+			</item>
+		</dislike>
+		<hate>
+			<quote> Ini membuatku depresi.</quote>
+			<item>
+				Semua Universal Hates
+				Holly
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Event I
+				Kunjungi Saloon diantara pukul 7pm dan 11pm hari Senin
+
+				Details
+				Clint berkata dia memiliki nasib buruk dengan wanita, dan dia memintamu saran
+				"Impress women with your strength and charm." (+25 friendship.) dia merespon, "Okay... I'll keep that in mind."
+				"Act crazy, to keep people guessing." (+25 friendship.) dia merespon, "Okay... I'll keep that in mind."
+				"Just act natural... be yourself." (No effect on friendship.) dia merespon, "That's the problem... I do act natural... but I never have any success."
+				"Treat women the same as men." (+50 friendship.) Dia merespon, "Okay... I'll keep that in mind."
+
+				Event II
+				CLint memberikan resep di kotak surat
+				[Algae Soup]
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuk kek kota dari arah Cindersap Forest diantara pukul 9am dan 6:30 dengan berjalan kaki, menggunakan kuda tidak akan memicu event. Hanya terpicu saat kamu mengikuti "three hearts event".
+				Tambahan : Event ini tidak akan ada jika kamu menikahi Emily, atau telah memulai "Eight Heart Event" atau "Ten Heart event" nya Emily
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Clint memberikan resep di kotak surat.
+				[Bean Hotpot]
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+		<grouptenheartevent>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</grouptenheartevent>
+	</heartevents>
+	<contributor>Balee#8737</contributor>
+</Townspeople>

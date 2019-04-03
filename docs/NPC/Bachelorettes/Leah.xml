@@ -1,0 +1,167 @@
+<Bachelorettes>
+	<type>Bachelorettes</type>
+	<quote>Leah tinggal sendirian di sebuah pondok kecil di bagian luar kota. Dia suka menghabiskan waktu di luar, mencari makan di alam bebas atau sekadar menikmati hadiah musim ini. Dia merupakan seniman yang berbakat dengan banyak portofolio pekerjaan...Namun dia terlalu gugup untuk menampilkannya kepada publik. Mungkin kamu bisa memberinya sedikit kepercayaan diri?</quote>
+	<schedule>
+		<desc>
+			Setiap hari Leah bangun jam 10:00 pagi dan memulai hari dengan memahat di pondoknya. Kecuali jika pemain telah mencapai setidaknya dua hati persahabatan dengannya, mereka tidak akan bisa memasuki rumahnya. di jam 12 siang, setelah memahat, dia sering keluar untuk menggambar di samping kolam di hutan, ke Pierre General Store, atau kadang-kadang ke pantai di musim panas. 
+			Pada hari hujan di musim semi dia pergi ke Stardrop Saloon pada jam 5:30 sore. Pada tanggal 16 Musim Semi, 
+			dia punya janji bertemu di klinik.			
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Leah berteman dengan Elliot, tetapi tidak jelas relasi apa yang mereka miliki.
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Oh! Inilah yang saya inginkan! Terimakasih!</quote>
+			<item>
+				Semua Universal Loves
+				Goat Cheese
+				Poppyseed Muffin
+				Salad
+				Stir Fry
+				Truffle
+				Vegetable Medley
+				Wine
+			</item>
+		</love>
+		<like>
+			<quote>Hadiah yang sangat bagus! Terimakasih!</quote>
+			<item>
+				Semua Universal Likes (Kecuali : 
+				Foraged Minerals selain Earth Crystal
+				Gems selain Diamond dan Prismatic Shard
+				Carp Surprise, Cookie, Hashbrowns, Ice Cream, Pancakes, Pink Cake, Pizza, Rice Pudding, Survival Burger, dan Tortilla)
+				Semua Telur (kecuali Void Egg)
+				Semua Buah
+				Semua Susu
+			</item>
+		</like>
+		<neutral>
+			<quote>Terima Kasih!</quote>
+			<item>
+				Semua Universal Neutrals (Kecuali Bread, Fried Egg, dan Truffle)
+			</item>
+		</neutral>
+		<dislike>
+			<quote>Hmm.. aku kira setiap orang mempunyai citra rasa yang berbeda.</quote>
+			<item>
+				Semua Universal Dislikes (Kecuali Driftwood, Spring Onion, dan Void Egg)
+				Semua Foraged Minerals (Kecuali Earth Crystal)
+				Semua Gems (Kecuali Diamond dan Prismatic Shard)
+			</item>
+		</dislike>
+		<hate>
+			<quote>Ini hadiah sangat buruk.. bukan?</quote>
+			<item>
+				Semua Universal Hates (Kecuali Seaweed)
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Masuk kedalam Pondok Leah saat dia ada di sana.
+				
+				Kamu melihatnya sedang memahat. Dia membahas soal pemahatan dengan kamu, dan berkata "Setelah kamu melewati lapisan luar, sifat sejatinya mulai menunjukkan diri... "
+				
+				- "Sama halnya dengan orang-orang." (Tidak berpengaruh pada persahabatan.) Dia setuju dan berkata Oh! ya, itu benar sekali!
+				- "Aku sebenarnya lebih suka tampilan kayu yang belum terolah." (Tidak ada efek pada persahabatan.)
+				Dia mengatakan bahwa tidak ada yang salah dengan itu dan dia pikir ada banyak keindahan yang dapat ditemukan di alam yang belum tersentuh. Dia kemudian berkata sebagai manusia, dia tertarik pada bagaimana kita membentuk dan menafsirkan dunia di sekitar kita, dia menjelaskan hal ini karena dia tertarik pada 'seni'.
+				- "(menyeramkan) Bolehkah aku mendapatkan ciuman?" (-100 persahabatan.)
+				Jika petani itu laki-laki, dia memanggil kamu babi, meninju dan menendang kamu keluar. Adegan berakhir. Kalau tidak, dia bertindak terkejut, mengatakan "Oh! Kamu ...? (Memerah) aku juga. Itu bagus untuk diketahui". Terlepas dari wajahnya yang memerah, dia akan memukulmu dengan palu dan menendangmu keluar. Adegan berakhir. Dia melanjutkan, "Meskipun, aku harus mengakui ... Tidak mudah untuk membayar tagihan sebagai seorang seniman."
+				- "Kenapa kamu tidak mengadakan pertunjukan seni di kota?" (Tidak ada efek pada persahabatan.) Dia merenung bahwa itu bisa membantu menjadikan Kota Pelican sebagai tujuan seni sejati, tetapi dia mengatakan akan kecewa jika tidak ada yang menyukai hasil pahatannya. Dia bilang dia akan memikirkannya, dan terima kasih sudah mampir.
+				- "Kenapa kamu tidak menjual karya seni mu di internet?" (Tidak ada efek pada persahabatan.) Dia berpikir bahwa dia akan membutuhkan komputer untuk itu, tetapi harganya mahal. Dia bilang dia akan memikirkannya, dan terima kasih sudah mampir.
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Masuk kedalam Pondok Leah saat dia ada di sana.
+				kamu melihatnya berdebat dengan mantan rekannya di telepon, yang memintanya untuk kembali ke kota yang ditinggalkannya. Setelah panggilan, dia menceritakan kisahnya dan bertanya apakah egois untuk pindah ke luar kota untuk menjadi seorang seniman.
+				
+				- "Tidak, itu harus dilakukan." (Tidak ada efek pada persahabatan.) Leah menjawab, "Kamu benar ... 
+				Aku tidak akan pernah merasa bahagia di sana."
+				- "Tidak, dan mantan rekanmu kedengaran seperti orang idiot." (Tidak ada efek pada persahabatan.) Leah menjawab, "Itu agak kasar ... Tapi ya, kita memiliki prioritas yang berbeda."
+				- "Tidak, tapi kamu lebih baik tinggal di kota." (-20 persahabatan.)
+				- "Ya, sedikit." (-20 persahabatan.)
+				- "Ya, tapi itu wajar untuk peduli tentang dirimu terlebih dahulu." (-20 persahabatan.)
+				
+				Bergantung pada respons kamu dalam percakapan ini dan pada event dua-hati, dia akan berterima kasih karena mendengarkan atau marah sebentar. Dia memberi tahu kamu bahwa dia telah memikirkan pameran seni atau menabung untuk komputer, tergantung pada pilihan kamu di event sebelumnya.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Event 1
+				Leah ada di pintu rumah kamu pada hari apapun kecuali hujan antara jam 6 pagi dan 11:30 pagi.
+				Leah bilang dia punya hadiah untukmu, dan kamu menerima pahatan yang sedang dikerjakannya. Ini disebut Bagaimana 
+				aku Merasa Tentang "nama kamu".
+				
+				Event 2
+				Masuki Hutan Cindersap ketika Leah ada di sana, di musim apa pun kecuali musim dingin.
+				Leah berusaha meraih buah dari pohon besar di atas danau hutan. Dia tidak bisa mencapainya, jadi kamu mengangkatnya kebahu kamu. Dia berterima kasih kepada kamu dan mengatakan bahwa jika seninya gagal, kamu akan selalu ada di sana untuk menangkapnya.
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Pertunjukan Seni
+				
+				Jika kamu menyarankan pertunjukan seni di event dua-hatinya, Leah ada di pintu rumah kamu antara jam 06.00 dan 08.00 (kecuali di musim dingin) untuk mengundang kamu ke pertunjukan seninya. Masuk ke dalam Kota Pelican antara jam 15:00 dan 17:00 (tidak harus pada hari yang sama).
+				kamu tiba dan menemukan banyak yang telah hadir. Leah senang melihatmu dan dengan gugup memulai pertunjukan seni. Dia berterima kasih kepada semua orang untuk datang. Leah berkata bahwa dia datang ke Pelican Town untuk mendapatkan inspirasi dari lingkungan yang indah dan mengakui rasanya benar-benar seperti di rumah sekarang. Dia mempersembahkan hasil pahatannya.
+
+				Akhirnya, dia mengucapkan terima kasih kepada teman spesialnya (kamu), yang memberinya ide untuk pertunjukan seni 
+				dan keberanian untuk melewatinya.
+
+				Penduduk desa semua memuji Leah dan karya seninya Leah berterima kasih kepada semua orang, Lewis memulai penawaran pada karya seninya, dan saat adegan memudar, mantannya, Kel, dapat dilihat di samping. Setelah itu, Leah mengatakan dia kelelahan tetapi pertunjukan itu sukses.
+
+			Situs Web Seni
+			Jika kamu menyarankan situs web seni di event dua-hati, Masuk kedalam Pondok Leah saat dia ada di sana. Leah dengan bangga memberi tahu kamu dia membeli laptop dan mendirikan toko seni online seperti yang kamu sarankan. Komputernya 
+			mengeluarkan suara koin, dan dia dengan gembira mengatakan itu berarti seseorang baru saja membeli sesuatu. Dia berhenti dan berkata ada "Tuan K" yang terus membeli semua karya pahatannya. Dia pikir pasti "orang kaya" yang mencintai seninya. Dia berterima kasih atas idenya dan mengatakan bahwa sudah benar-benar sukses sejauh ini, dan yakin dia akan punya cukup uang untuk mengerjakan seninya secara penuh sekarang. Dia kembali bekerja pada tokonya, mengubah lembaran CSS.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Masuki Hutan Cindersap antara jam 11 pagi dan 4 sore, di musim apa pun kecuali musim dingin.
+				Leah mengatakan dia tahu kamu akan melewati hutan, dan mengejutkanmu dengan piknik. Dia berterima kasih kepada kamu karena membantunya mendapatkan satu selangkah lebih dekat untuk menjadi seniman sejati, dan kamu berbagi ciuman.
+
+				Mantan mitra Leah, Kel, keluar dari semak-semak. (Kel akan pria atau wanita tergantung pada jenis kelamin karakter kamu.) Leah kesal dan bertanya Kel apa yang dia lakukan di sini.
+
+				- Jika kamu menyarankan situs web seni, Kel mengatakan ia menemukan toko seni online-nya dan mengatakan ia adalah "Tuan K" yang terus membeli patung-patungnya. Leah kecewa, karena dia pikir lelaki kaya yang benar-benar mencintai seninya. Kel bilang dia "setengah benar", menyiratkan dia tidak peduli dengan seninya. Dia memintanya untuk kembali ke kota. Leah menolak, mengatakan Kel tidak pernah tertarik pada seninya sampai dia menjadi sukses.
+				- Jika kamu menyarankan pertunjukan seni, Kel mengatakan ia datang jauh-jauh dari Kota Zuzu untuk melihat karya pahatannya dan membawanya kembali ke Kota. Dia mengaku ingin hubungan mereka menjadi seperti sebelumnya. Leah menolak, mengatakan Kel tidak pernah tertarik dalam seninya sampai dia menjadi sukses.
+
+				Bagaimanapun juga, sebuah argumen pun terjadi. kamu dapat memilih untuk memukul Kel atau berunding dengannya. 
+				Jika kamu tidak memukul Kel, Leah yang melakukannya. Jika kamu memukul Kel, Leah berkata, "Itu sangat kasar, (Nama)." Leah membawamu untuk menemukan tempat yang lebih terpencil dan mengakui pikniknya tidak berjalan seperti yang diinginkannya.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Geralt#0227</contributor>
+</Bachelorettes>

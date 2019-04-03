@@ -1,0 +1,149 @@
+<Townspeople>
+	<type>Townspeople</type>
+	<quote>Suamiku menjalankan toko disini. Dan pernahkah kamu bertemu anak perempuan saya,Abigail? Dia yang pucat dengan rambut ungunya</quote>
+	<schedule>
+		<desc>
+						Spring
+						Senin, Kamis
+						8:00 AM Berdiri di ruangannya
+						12:30 PM Berbelanja di tokonya
+						1:30 Meninggalkan toko
+						2:00 PM Di pusat kota mengobrol dengan Jodi
+						4:00 PM Kembali ke rumah
+						4:30 PM Berjalan sekitar ruang tamu
+						9:00 PM Menuju tempat tidur
+
+						Summer
+						Senin
+						2:00 PM Berdiri di pusat kota dengan Jodi
+
+						Fall
+						Selasa
+						2:30 PM Di ruang tamu
+						6:00 PM Menuju kamar tidur
+						7:50 PM Berada di dapur bersama Pierre
+
+						Winter
+						Senin
+						2:00 PM Berdiri di Pusat Kota
+		</desc>
+	</schedule>
+
+	<relationships>
+		<desc>
+			Caroline menikah dengan Pierre dan mereka hidup bersama anaknya Abigail di Pierre's General Store
+			Jodi menyebutkan bahwa Caroline adalah teman terbaiknya, dan dia bisa mengatakan apapun padanya. Mereka berdua menghadiri kelas pelatihan dengan bebera[a wanita di Pelican Town, seperti Marnie, Emily dan Robin
+		</desc>
+	</relationships>
+
+	<gifts>
+		<love>
+			<quote>Kau memberikan ini... padaku? aku tidak dapat berkata apa apa.</quote>
+			<item>
+				Semua Universal Loves
+				Fish Taco
+				Summer Spangle
+			</item>
+		</love>
+		<like>
+			<quote>Ya Tuhan! Apa kau yakin?.</quote>
+			<item>
+				Semua Universal Likes (kecuali Amaranth, Duck Mayonnaise, dan Mayonnaise)
+				Daffodil
+			</item>
+		</like>
+		<neutral>
+			<quote>Oh, manis sekali.Terima Kasih!</quote>
+			<item>
+				Semua Universal Neutrals
+				Semua Tekur (kecuali void egg)
+				Semua buah (kecuali Fruit Tree Fruit dan Salmonberry)
+				Semua Susu
+			</item>
+		</neutral>
+		<dislike>
+			<quote>tidak, tidak, tidak...</quote>
+			<item>
+				Semua Universal Dislike
+				Amaranth
+				Chanterelle
+				Common Mushroom
+				Dandelion
+				Duck Mayonnaise
+				Hazelnut
+				Holly
+				Leek
+				Mayonnaise
+				Morel
+				Purple Mushroom
+				Snow Yam
+				Wild Horseradish
+				Winter Root
+			</item>
+		</dislike>
+		<hate>
+			<quote> Ini benar benar sampah. Aku tersinggung.</quote>
+			<item>
+				Semua Universal Hates
+				Quartz
+				Salmonberry
+			</item>
+		</hate>
+	</gifts>
+
+	<heartevents>
+		<onehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</onehearts>
+		<twohearts>
+			<desc>
+				Tidak ada event
+			</desc>
+		</twohearts>
+		<threehearts>
+			<desc>
+				Caroline memberimu resep di kotak surat.
+				[Resep Parsnip Soup]
+			</desc>
+		</threehearts>
+		<fourhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fourhearts>
+		<fivehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</fivehearts>
+		<sixhearts>
+			<desc>
+				Masuk Pierre's General Store ketika Caroline dan Abigail ada di sana
+			</desc>
+		</sixhearts>
+		<sevenhearts>
+			<desc>
+				Caroline memberiakn resep di kotak surat.
+				[Vegetable Stew]
+			</desc>
+		</sevenhearts>
+		<eighthearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</eighthearts>
+		<ninehearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</ninehearts>
+		<tenhearts>
+			<desc>
+				Tidak ada event.
+			</desc>
+		</tenhearts>
+	</heartevents>
+	<contributor>Balee#8737</contributor>
+</Townspeople>
